@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="JupiterToys" verbose="1">
+
+ <test name="TC_001">
+    <classes>
+        <class name="testcases.TC_001_ContactUsFormErrorValidation"></class>
+          
+    </classes>
+</test>
+
+ <test name="TC_002">
+    <classes>
+        <class name="testcases.TC_002_ContactUsFormSubmittion"></class>
+          
+    </classes>
+    </test>
+     <test name="TC_003">
+    <classes>
+        <class name="testcases.TC_003_ProductValidation"></class>
+          
+    </classes>
+</test>
+</suite>
