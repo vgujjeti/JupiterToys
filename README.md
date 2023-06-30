@@ -1,8 +1,11 @@
 # JupiterToys
 
 #Automation Tool: Selenium Webdriver
+
 #Programming language: Java
+
 #Unit Testing Framework: TestNG
+
 #Project/jar Management Tool: Maven
 
 #Code repository: https://github.com/vgujjeti/JupiterToys
